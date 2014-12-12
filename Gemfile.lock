@@ -198,8 +198,6 @@ GEM
       remotipart (~> 1.0)
       safe_yaml (~> 1.0)
       sass-rails (~> 4.0)
-    rails_apps_pages (0.5.15)
-    rails_apps_testing (0.3.12)
     rails_layout (1.0.24)
     railties (4.1.8)
       actionpack (= 4.1.8)
@@ -357,8 +355,6 @@ DEPENDENCIES
   quiet_assets
   rails (= 4.1.8)
   rails_admin
-  rails_apps_pages
-  rails_apps_testing
   rails_layout
   rb-fchange
   rb-fsevent
